@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Ruslan\2sem\c ucheba\Project1\Project1\Source.cpp(11,42): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Ruslan\2sem\c ucheba\Project1\Project1\Source.cpp(11,42): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  Project1.vcxproj -> C:\Ruslan\2sem\c ucheba\Project1\Debug\Project1.exe
